@@ -56,7 +56,15 @@ if (defined('ENVIRONMENT'))
  * as this file.
  *
  */
+<<<<<<< HEAD
 	$system_path = '/usr/share/codeigniter/system';
+=======
+<<<<<<< HEAD
+	$system_path = '/usr/share/codeigniter/system';
+=======
+	$system_path = '/usr/share/codeigniter/system';
+>>>>>>> f67556e6244e072215c1cae9805dbdb6a04d84ab
+>>>>>>> 9e586391b49d010d6f9ca1d56b6ce1500afd2fbf
 
 /*
  *---------------------------------------------------------------
@@ -202,4 +210,12 @@ if (defined('ENVIRONMENT'))
 require_once BASEPATH.'core/CodeIgniter.php';
 
 /* End of file index.php */
+<<<<<<< HEAD
 /* Location: ./index.php */
+=======
+<<<<<<< HEAD
+/* Location: ./index.php */
+=======
+/* Location: ./index.php */
+>>>>>>> f67556e6244e072215c1cae9805dbdb6a04d84ab
+>>>>>>> 9e586391b49d010d6f9ca1d56b6ce1500afd2fbf

@@ -1,6 +1,12 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
+<<<<<<< HEAD
+=======
+	
+
+	}
+>>>>>>> 9e586391b49d010d6f9ca1d56b6ce1500afd2fbf
 
 	/**
 	 * Index Page for this controller.
@@ -24,4 +30,8 @@ class Welcome extends CI_Controller {
 }
 
 /* End of file welcome.php */
+<<<<<<< HEAD
 /* Location: ./application/controllers/welcome.php */
+=======
+/* Location: ./application/controllers/welcome.php */
+>>>>>>> 9e586391b49d010d6f9ca1d56b6ce1500afd2fbf
